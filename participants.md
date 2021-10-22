@@ -1,4 +1,4 @@
 # Participants
 
 - Pablo Winant: pwinant@escp.edu
-Kristine Sahakyan: kristine.sahakyan@edu.escp.eu
+- Kristine Sahakyan: kristine.sahakyan@edu.escp.eu
