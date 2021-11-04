@@ -26,10 +26,10 @@ Pablo Winant
 
 ### Communication for this seminar
 
-- github repository for the course: https://github.com/albop/computational_methods
+- github repository for the course: https://github.com/albop/computational_seminar
 - enroll by:
   - creating a github account if needed
-  - cloning the repository
+  - forking the repository
   - making a PR on participants.md
 - join on [Zulip](econforge.zulipchat.org)
   - we'll communicate in the `computational_seminar` room
@@ -92,8 +92,8 @@ Pablo Winant
 ### Environment
 
 We will need:
-- Git Bash
-- VSCode
+- Git
+- VSCode (Visual Studio Code)
 - Anaconda Python or Miniconda
 - ...?
   - possibly Julia depending on interests
@@ -200,4 +200,4 @@ We will need:
 
 ---
 
-## Next Time:?
+## Next Time?
