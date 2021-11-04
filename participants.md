@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# List of participants
-
-- Pablo Winant: pwinant@escp.edu
-=======
 # Participants
 
 - Pablo Winant: pwinant@escp.edu
@@ -12,4 +7,3 @@
 - Kristine Sahakyan: kristine.sahakyan@edu.escp.eu
 - Maciej Kielar: maciej.kielar@edu.escp.eu
 - xuejing Yang: xuejing.yang@edu.escp.eu
->>>>>>> 5541a8dc07d8eefcc914227f05a1b59b6f1ee342
