@@ -8,8 +8,14 @@ Pablo Winant
 
 ### Last week
 
-- introduction
-- b
+- We installed Git, VSCode, Anaconda Python
+- We used the command line to:
+  - launch programs that are in the PATH variable
+  - move around the file hierarchy (`ls`, `pwd`, ...)
+  - open an OS window in the current path of the command line
+  - open a command in a given OS window
+- We created our own github repository to host this project
+- We cloned it on our own laptop
 
 ----
 
@@ -33,6 +39,7 @@ Pablo Winant
 - Project description
 
 - Introduction to Python
+  - setup VSCode
   - super basics (basic types, containers)
   - import packages / package manager
   - pandas dataframe
@@ -40,8 +47,8 @@ Pablo Winant
 
 </div>
 
-####
-
 </div>
 
 </div>
+
+---

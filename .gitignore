@@ -131,3 +131,5 @@ dmypy.json
 
 slides/node_modules/*
 slides/*.json
+node_modules/*
+*.json
