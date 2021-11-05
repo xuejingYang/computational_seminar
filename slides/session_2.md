@@ -1,4 +1,4 @@
-# Introduction
+# Session 2
 
 ## Computational Methods Seminar, Fall 2021
 
