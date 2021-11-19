@@ -55,15 +55,25 @@ Pablo Winant
   - merge a branch
   - create a PR
 
+- Introduction to Python (2)
+  - super basics (containers)
+  - numeric python
+  - plot data
+  - pandas dataframe
+
 </div>
 
 <div class="col">
 
-- Introduction to Python (2)
-  - super basics (containers)
-  - pandas dataframe
-  - plot data
 - Challenge for *next* time
+  - choose one graph from [ourworldindata](https://ourworldindata.org/)
+  - replicate it as well as possible
+  - requirement: all the code should be in your github repo
+  - bonus points:
+    - make result available online
+      - on github pages (for simple browsing)
+      - full replicability on mybinder.org
+    - add interactivity (with altair instead of matplotlib?)
 
 </div>
 
